@@ -1,0 +1,36 @@
+body{
+	font-family: Comic Sans MS,Comic Sans, cursive;
+}
+form{
+	font-family: Comic Sans MS,Comic Sans, cursive;
+}
+p{
+	font-family: Comic Sans MS,Comic Sans, cursive;
+}
+h2{
+	text-align: center;
+	font-family: Comic Sans MS,Comic Sans, cursive;
+}
+.container{
+	text-align: center;
+	max-width:300px;
+	height: auto;
+	background-color: #4ccc;
+	margin: 2% auto;
+	border-radius: 15px;
+	padding-bottom:1rem;
+}
+input{
+	min-width: 250px;
+	border-radius: 25px;
+}
+.center{
+	padding: 25px;
+	text-align: left;
+	max-width:800px;
+	height: auto;
+	background-color: #AD66E8;
+	margin: 2% auto;
+	border-radius: 15px;
+	padding-bottom:1rem;
+}
